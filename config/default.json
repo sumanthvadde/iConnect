@@ -1,0 +1,6 @@
+{
+    "jwtSecret" : " ",
+    "githubClientID":"d055c6a21f5c01fb7b06",
+    "githubClientSecret":"43459db5c6b7e22679f0c575ade8764c82e2e5e4",
+    "mongoURI": "mongodb+srv://sumanth:Sumanth1@cluster0.2vscjkp.mongodb.net/?retryWrites=true&w=majority"
+}
